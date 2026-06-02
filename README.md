@@ -6,7 +6,6 @@ A child-centered AI chatbot for smoking prevention education.
 
 ## Prerequisites
 
-- Linux machine
 - Python 3.10+
 - Git
 
