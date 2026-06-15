@@ -3,5 +3,10 @@ uvicorn
 langchain
 langchain-ollama
 langchain-chroma
+langchain-community
+langchain-core
 chromadb
 pandas
+pypdf
+bs4
+docx2txt
