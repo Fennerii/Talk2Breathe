@@ -13,7 +13,7 @@ if os.path.exists(Database_location):
 documents = []
 ids = []
 
-docs_folder = "./server/docs"
+docs_folder = "./docs"
 doc_id = 0
 
 for filename in os.listdir(docs_folder):
